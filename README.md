@@ -7,4 +7,4 @@ PHP 프레임워크이다.
 - JSON 확장
 - 리눅스 권장(원한다면 윈도우에도 깔수 있음)
 # 문서
-https://github.com/kmoon2437/gozaranidocs
+https://github.com/kmoon2437/gozarani-docs
